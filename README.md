@@ -60,10 +60,6 @@ OpenAlive runs entirely on your local machine.
 - No cloud services
 - No user tracking
 
-## Support
-
-If OpenAlive is useful to you, consider supporting the project with a contribution starting from $1 USD.
-
 ## License
 
 Released under the MIT License.
