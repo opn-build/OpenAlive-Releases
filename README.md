@@ -23,6 +23,22 @@ OpenAlive is a lightweight Windows utility designed to simulate occasional mouse
 <br/>
 <img width="545" height="515" alt="{E8071177-94FA-48BA-8A37-2A21544279B2}" src="https://github.com/user-attachments/assets/a3e92108-fa0c-4ec9-bbaa-779cd7546624" />
 
+## 🌍 Multi-Language Support
+
+OpenAlive is available in multiple languages to provide a better experience for users around the world.
+
+### Supported Languages
+
+- 🇺🇸 English
+- 🇪🇸 Español
+- 🇧🇷 Português (Brasil)
+- 🇫🇷 Français
+- 🇯🇵 日本語
+- 🇨🇳 中文 (简体)
+- 🇰🇷 한국어
+- 🇭🇹 Kreyòl Ayisyen
+
+<img width="156" height="239" alt="{3519CA7F-0EAD-4052-B119-4A497CD631C8}" src="https://github.com/user-attachments/assets/571b2760-2b73-458c-bdd8-2afdf5738308" />
 
 ## Requirements
 
