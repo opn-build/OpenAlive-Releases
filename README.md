@@ -52,5 +52,4 @@ Released under the MIT License.
 See LICENSE for details.
 
 ## Donate 1 USD
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](...)
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/fcapuz)
