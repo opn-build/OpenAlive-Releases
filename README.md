@@ -18,7 +18,7 @@
 
 **[⬇ Download OpenAlive\_lasted](https://github.com/opn-build/OpenAlive-Releases/releases/latest)**
 
-*Windows 10 / 11 · No admin rights required · ~21 MB*
+*Windows 10 / 11 · No admin rights required · ~15 MB*
 
 ---
 
