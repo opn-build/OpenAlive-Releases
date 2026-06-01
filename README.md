@@ -16,7 +16,7 @@
 
 ## Download
 
-**[⬇ Download OpenAlive\_Setup\_v1.0.1.exe](https://github.com/opn-build/OpenAlive-Releases/releases/latest)**
+**[⬇ Download OpenAlive\_lasted](https://github.com/opn-build/OpenAlive-Releases/releases/latest)**
 
 *Windows 10 / 11 · No admin rights required · ~21 MB*
 
@@ -45,7 +45,7 @@
 
 ## Installation
 
-1. Download `OpenAlive_Setup_v1.0.1.exe` from the [Releases page](https://github.com/opn-build/OpenAlive-Releases/releases/latest)
+1. Download `OpenAlive_Setup_lasted.exe` from the [Releases page](https://github.com/opn-build/OpenAlive-Releases/releases/latest)
 2. Run the installer — no administrator rights required
 3. OpenAlive installs to `%LOCALAPPDATA%\OpenAlive`
 
