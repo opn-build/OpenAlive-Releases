@@ -76,7 +76,7 @@ Switch language from the **Settings** tab — applies immediately, no restart ne
 |               | Minimum                          |
 |---------------|----------------------------------|
 | OS            | Windows 10 (1903+) or Windows 11 |
-| RAM           | ~30 MB at runtime                |
+| RAM           | ~13 MB at runtime                |
 | Disk          | ~25 MB installed                 |
 | Rights        | Standard user (no admin)         |
 
